@@ -65,7 +65,19 @@ This repository contains the **Lite / Demo edition**: ready-to-flash firmware fo
 > Arduino Uno / Nano / Mega and the plain ESP32 / ESP32-C3 can **not** be a USB game controller.
 
 ---
+## Wiring diagrams
 
+### ESP32-S3
+![ESP32-S3 wiring](docs/MazoWheel_Demo_wiring_ESP32-S3.png)
+
+### STM32 Blue Pill (STM32F103C8)
+![Blue Pill wiring](docs/MazoWheel_Demo_wiring_STM32_BluePill.png)
+
+### STM32 Black Pill (STM32F401 / F411)
+![Black Pill wiring](docs/MazoWheel_Demo_wiring_STM32F401_BlackPill.png)
+
+### Arduino Leonardo / Micro / Pro Micro (ATmega32U4)
+![Pro Micro wiring](docs/MazoWheel_Demo_wiring_Arduino_ProMicro.png)
 ## Default pins
 
 All pins can be changed in the program (**Settings**). Wiring diagrams are in the Releases / `docs` folder.
