@@ -47,6 +47,25 @@ This repository contains the **Lite / Demo edition**: ready-to-flash firmware fo
 | Buttons | 4 |
 
 ---
+## Supported Games
+
+The following games have been tested with MazoWheel:
+
+| Game | Steering | Force Feedback | Status |
+|---|---|---|---|
+| Forza Horizon 6          | ✅ | ✅ Direct FFB | Fully Tested |
+| Forza Horizon 5          | ✅ | ✅ Direct FFB | Fully Tested |
+| Euro Truck Simulator 2   | ✅ | ✅ Direct FFB | Fully Tested |
+| American Truck Simulator | ✅ | ✅ Direct FFB | Fully Tested |
+| SnowRunner               | ✅ | ✅ | Requires OEMData Registry Mod |
+
+### Direct Force Feedback Compatibility
+
+- No vJoy required.
+- No EmuWheel required.
+- Direct USB HID PID Force Feedback.
+- Tested with ESP32-S3 firmware.
+
 
 ## Supported boards
 
